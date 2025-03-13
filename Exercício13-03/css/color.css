@@ -1,7 +1,7 @@
 :root{
     --bg-color:#fff;
     --text-color:#000;
-    --navbar-bg:#f8f9fa;
+    --navbar-bg:#00ff2a;
     --card-bg:#f3ecec;
     --footer-bg:#f8f9fe;
 
@@ -9,7 +9,7 @@
 body.dark-mode{
     --bg-color:#000;
     --text-color:#fff;
-    --navbar-bg:#1f1f1f;
+    --navbar-bg:#00ff2a;
     --card-bg:#1f1f1f;
     --footer-bg:#1f1f1f;
  }
